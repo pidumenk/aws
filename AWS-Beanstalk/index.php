@@ -24,6 +24,7 @@ else
 <body>
     <section class="congratulations">
         <h1 style="color: red">Congratulations, DevOps!</h1>
+        <h2 style="color: green"> Let's start to learn AWS!</h2>
         <p>Your AWS Elastic Beanstalk <em>PHP</em> application is now running on your own dedicated environment in the AWS&nbsp;Cloud</p>
         <p>You are running PHP version <?= phpversion() ?></p>
         <p>This environment is launched with Elastic Beanstalk PHP Platform</p>
